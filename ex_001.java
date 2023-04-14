@@ -41,7 +41,7 @@ class ex_001 {
         else{
             System.out.println("O numero " + n4 + " é par!");
         }
-        
+
     }
 }
 
