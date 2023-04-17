@@ -10,10 +10,6 @@ public class ex_003 {
         for (int i = 0; i <= 10; i++) {
             System.out.println("Infome seu sexo (M/F): ");
             String t = s.nextLine();
-
-        }
-
-        for (int i = 0; i <= 10; i++) {
             System.out.println("Informe a sua altura: " );
             double a = s.nextDouble();
 
@@ -24,10 +20,13 @@ public class ex_003 {
             if(a < valorMenor && a!=0) {
                 valorMenor = a;
             }
+
         }
+
+
         System.out.println("Maior valor: "+ valorMaior);
         System.out.println("Menor valor: "+ valorMenor);
-
-
     }
 }
+
+
