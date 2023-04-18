@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077c0602-1640-4f3d-bdb8-855a8d6ba6ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex_003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_004.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex_004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,28 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Downloads/Java_Study&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.ex_004">
+    <configuration name="ex_004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_004" />
+      <module name="Java_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_005" />
+      <module name="Java_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex_004" />
+        <item itemvalue="Application.ex_005" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
