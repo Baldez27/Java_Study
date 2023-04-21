@@ -7,9 +7,9 @@ public class ex_005 {
 
         int num = 15;
 
-        System.out.println(" Digite uma nome para o seu usuário: ");
+        System.out.println("Digite uma nome para o seu usuário: ");
         String nome = s.nextLine();
 
-        System.out.println("Bem vindo " + nome + " seu usuário é o " + num + "° a se cadastrar em nosso site.");
+        System.out.println("Bem vindo " + nome + ", seu usuário é o " + num + "° a se cadastrar em nosso site.");
     }
 }
