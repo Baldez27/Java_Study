@@ -22,7 +22,6 @@ public class ex_004 {
 
             if(nota > valorMaior ) {
                 valorMaior = nota;
-
             }
             if(nota < valorMenor ) {
                 valorMenor = nota;
